@@ -636,46 +636,46 @@ function AppFooterBar () {
           <div className='footer_whatWoDo__W4YYG'>
             <div className='footer_middleBox__ufz2u'>
               <div>
-                <div className='link_linkBox__vxiZm'>
+                <div className='link_linkBox'>
                   <HashLink to='/#ourServices'>Our Services</HashLink>
                 </div>
               </div>
               <div>
-                <div className='link_linkBox__vxiZm'>
+                <div className='link_linkBox'>
                   <Link to='/blockchain'>Blockchain</Link>
                 </div>
               </div>
               <div>
-                <div className='link_linkBox__vxiZm'>
+                <div className='link_linkBox'>
                   <Link to='/software'>Software</Link>
                 </div>
               </div>
             </div>
             <div className='footer_middleBox__ufz2u'>
               <div>
-                <div className='link_linkBox__vxiZm'>
+                <div className='link_linkBox'>
                   <HashLink to='/#techStack'>Tech Stack</HashLink>
                 </div>
               </div>
               <div>
-                <div className='link_linkBox__vxiZm'>
+                <div className='link_linkBox'>
                   <Link to='/portfolio'>Portfolio</Link>
                 </div>
               </div>
               <div>
-                <div className='link_linkBox__vxiZm'>
+                <div className='link_linkBox'>
                   <Link to='/career'>Careers</Link>
                 </div>
               </div>
             </div>
             <div className='footer_middleBox__ufz2u'>
-              <div className='link_linkBox__vxiZm'>
+              <div className='link_linkBox'>
                 <Link to='/about'>About Us</Link>
               </div>
-              <div className='link_linkBox__vxiZm'>
+              <div className='link_linkBox'>
                 <Link to='/termsAndConditions'>Terms and Conditions</Link>
               </div>
-              <div className='link_linkBox__vxiZm'>
+              <div className='link_linkBox'>
                 <Link to='/privacyPolicy'> Privacy Policy</Link>
               </div>
             </div>

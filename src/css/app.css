@@ -1,18 +1,18 @@
-.link_linkBox__vxiZm {
+.link_linkBox {
   list-style: none;
   font-size: 20px;
 }
 
-.link_linkBox__vxiZm a {
+.link_linkBox a {
   color: inherit;
 }
 
-.link_linkBox__vxiZm a:hover {
+.link_linkBox a:hover {
   color: var(--primary-color-white-mod);
 }
 
 @media screen and (max-width: 456px) {
-  .link_linkBox__vxiZm {
+  .link_linkBox {
     height: 25px;
   }
 }
