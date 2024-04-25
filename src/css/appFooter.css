@@ -1,0 +1,122 @@
+.footer_solicyLogo__fei9Q > span,
+.footer_arrowUp__zi1IU > span {
+  box-sizing: border-box;
+  display: inline-block;
+  overflow: hidden;
+  width: initial;
+  height: initial;
+  background: none;
+  opacity: 1;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  max-width: 100%;
+}
+
+.footer_socialIncons__qmQdN .borderedIcon_iconBox__GsTQ2 > span,
+.footer_mobileSocialIcons__rXpGK .borderedIcon_iconBox__GsTQ2 > span,
+.footer_socialIncons__qmQdN .borderedIcon_iconBoxDark__J5ckL > span,
+.footer_mobileSocialIcons__rXpGK .borderedIcon_iconBoxDark__J5ckL > span {
+  box-sizing: border-box;
+  display: block;
+  overflow: hidden;
+  width: initial;
+  height: initial;
+  background: none;
+  opacity: 1;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.footer_footerInfoText__LURKR .borderedIcon_iconBox__GsTQ2 > span,
+.footer_footerInfoText__LURKR .borderedIcon_iconBoxDark__J5ckL > span {
+  box-sizing: border-box;
+  display: block;
+  overflow: hidden;
+  width: initial;
+  height: initial;
+  background: none;
+  opacity: 1;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  inset: 0px;
+}
+
+.footer_solicyLogo__fei9Q > span > span,
+.footer_arrowUp__zi1IU > span > span {
+  box-sizing: border-box;
+  display: block;
+  width: initial;
+  height: initial;
+  background: none;
+  opacity: 1;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
+.footer_footerInfoText__LURKR .borderedIcon_iconBoxDark__J5ckL > span > img,
+.footer_footerInfoText__LURKR .borderedIcon_iconBox__GsTQ2 > span > img {
+  position: absolute;
+  inset: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+  border: none;
+  margin: auto;
+  display: block;
+  width: 0px;
+  height: 0px;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.footer_solicyLogo__fei9Q > span > img,
+.footer_arrowUp__zi1IU > span > img,
+.footer_socialIncons__qmQdN .borderedIcon_iconBox__GsTQ2 > span > img,
+.footer_mobileSocialIcons__rXpGK .borderedIcon_iconBox__GsTQ2 > span > img,
+.footer_socialIncons__qmQdN .borderedIcon_iconBoxDark__J5ckL > span > img,
+.footer_mobileSocialIcons__rXpGK .borderedIcon_iconBoxDark__J5ckL > span > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  box-sizing: border-box;
+  padding: 0;
+  border: none;
+  margin: auto;
+  display: block;
+  width: 0;
+  height: 0;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.footer_solicyLogo__fei9Q > span > span > img,
+.footer_arrowUp__zi1IU > span > span > img {
+  display: block;
+  max-width: 100%;
+  width: initial;
+  height: initial;
+  background: none;
+  opacity: 1;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,33 @@
+.card_container__gXG_O {
+  height: -moz-fit-content;
+  height: fit-content;
+  width: 350px;
+  padding: 40px;
+  border-radius: 15px;
+  background-color: var(--background-color);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+}
+
+.card_title__Xc4qd {
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 10px;
+  z-index: 1;
+}
+
+.card_description__GDj3k,
+.card_title__Xc4qd {
+  font-family: var(--primary-font);
+  text-align: center;
+}
+
+.card_description__GDj3k {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.card_cardParts__qx2u_ {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
